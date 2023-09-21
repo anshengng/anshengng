@@ -4,7 +4,7 @@
     <p align=center>
     <a href="">Website & Blog</a> ·
     <a href="">VSCode settings</a> ·
-    <a href>Wechat ·</a>
+    <a href="">Wechat</a>
     </p>
 </samp>
 

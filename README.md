@@ -1,4 +1,11 @@
-  # <center> <span style="color: #d9d9d9;"> **Hi there** 👋 I’m currently working on ...🔭 </span> </center>
+<samp ><h1 align=center> Hi there 👋 I’m currently working on ...🔭 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1> </samp>
+<samp>
+    <p align=center>
+    <a href="">Website & Blog</a> ·
+    <a href="">VSCode settings</a> ·
+    <a href>Wechat ·</a>
+    </p>
+</samp>
 
 
 

@@ -3,7 +3,7 @@
 <samp>
     <p align=center>
     <a href="">Website & Blog</a> ·
-    <a href="">VSCode settings</a> ·
+    <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
     <a href="">Wechat</a>
     </p>
 </samp>

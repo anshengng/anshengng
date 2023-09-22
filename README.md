@@ -1,10 +1,10 @@
 <br/>
-<samp ><h1 align=center> Hi there 👋 I’m currently working on ...🔭 </h1> </samp>
+<h1 align=center> Hi there 👋 I’m currently working on ...🔭 </h1>
 <samp>
     <p align=center>
-    <a href="">Website & Blog</a> ·
-    <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
-    <a href="">Wechat</a>
+        <a href="">Website & Blog</a> ·
+        <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
+        <a href="">Wechat</a>
     </p>
 </samp>
 

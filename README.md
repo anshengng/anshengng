@@ -2,7 +2,7 @@
 <samp ><h1 align=center> Hi there 😄 I’m currently working on ...📫 </h1></samp>
 <samp>
     <p align=center>
-        <a href="liukun.fun">Website & Blog</a> ·
+        <a href="https://github.com/anshengng/lkcom_nest.git">Website & Blog</a> ·
         <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
         <a href="">Wechat</a>
     </p>

@@ -4,7 +4,7 @@
     <p align=center>
         <a href="https://github.com/anshengng/lkcom_nest.git">Website & Blog</a> ·
         <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
-        <a href="">Wechat</a>
+        <a href="">Wechat</a> ·
         <a href="https://anshengng.github.io/liukun_github_io/">github.io</a>
     </p>
 </samp>

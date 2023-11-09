@@ -3,7 +3,7 @@
 <samp>
     <p align=center>
         <a href="http://liukun.fun">website && blog</a> ·
-        <a href="https://github.com/anshengng/vscode-setting.git">VSCode settings</a> ·
+        <a href="https://github.com/anshengng/vscode-setting.git">vscode settings</a> ·
         <a href="https://anshengng.github.io/liukun_github_io/">github.io</a>
     </p>
 </samp>
